@@ -4,3 +4,4 @@
 *.swp
 data/web/public/*
 !data/web/public/index.php
+data/web/nginx/
